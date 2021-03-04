@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459481346802",
+    "project_id": "lgototvet-568b0",
+    "storage_bucket": "lgototvet-568b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459481346802:android:4ce4509a0fd6be2418d66b",
+        "android_client_info": {
+          "package_name": "ru.koldashev.lgototvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459481346802-odhoa6nloupaabbo35it91op6a0jsok8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.koldashev.lgototvet",
+            "certificate_hash": "357bb66f5a29bb22f1dbdb5893ee70a0875de5a5"
+          }
+        },
+        {
+          "client_id": "459481346802-uhd2nen5qulbtqcd8qr7i4a8ill53t7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQuNbvyec5XL0PZMFoBBy04kscwf9DAWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459481346802-uhd2nen5qulbtqcd8qr7i4a8ill53t7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
