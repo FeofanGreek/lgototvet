@@ -1,0 +1,4 @@
+Имя базы данных: 	a0088692_lgototvet
+Адрес хоста: 	localhost
+Пользователь: 	a0088692_lgototvet
+ Пароль: afLai4fy
